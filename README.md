@@ -19,7 +19,7 @@ This is a solution to the [Four card feature section](https://www.frontendmentor
 
 ### Links
 
-- Live Site URL: [GitHub Pages](https://mihaisvn.github.io/Product-preview-card-component/)
+- Live Site URL: [GitHub Pages](https://mihaisvn.github.io/Four-card-feature-section/)
 
 
 ### Built with

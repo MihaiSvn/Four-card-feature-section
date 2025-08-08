@@ -159,13 +159,9 @@ img {
     font-size: 1.2rem;
   }
 }
-
-@media screen and (min-width: 1637px) and (min-height: 889px) {
-  main {
-    width: 95%;
-  }
-
-  .container {
+@media screen and (min-width:1440px){
+   
+    .container {
     display: grid;
     grid-template: 1fr / repeat(3, 1fr);
 
@@ -181,4 +177,11 @@ img {
   .card__figure {
     width: 25%;
   }
+}
+@media screen and (min-width: 1660px) and (min-height: 889px) {
+  main {
+    width: 95%;
+  }
+
+  
 }
